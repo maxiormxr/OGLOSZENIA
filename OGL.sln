@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGL", "OGL\OGL.csproj", "{E03FC853-4A11-43D1-B6D8-E747C8043C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGL.Tests", "OGL.Tests\OGL.Tests.csproj", "{659FB729-64F4-4205-B87E-04F36C8D52E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03FC853-4A11-43D1-B6D8-E747C8043C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03FC853-4A11-43D1-B6D8-E747C8043C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03FC853-4A11-43D1-B6D8-E747C8043C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03FC853-4A11-43D1-B6D8-E747C8043C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659FB729-64F4-4205-B87E-04F36C8D52E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659FB729-64F4-4205-B87E-04F36C8D52E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659FB729-64F4-4205-B87E-04F36C8D52E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659FB729-64F4-4205-B87E-04F36C8D52E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D17AC4-D51D-4C24-95BE-3953BBA3110E}
+	EndGlobalSection
+EndGlobal
